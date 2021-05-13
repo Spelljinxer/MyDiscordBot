@@ -1,0 +1,11 @@
+Client ID:
+719586715479834684
+
+Client Secret:
+6aZ2OpwoR3YMKqC16Oev9T2xn-34UfAr
+
+Token:
+NzE5NTg2NzE1NDc5ODM0Njg0.Xt5tmA.2Jq2krghYRRfjPoL1znNLijlIOI
+
+Invite:
+https://discord.com/oauth2/authorize?client_id=719586715479834684&scope=bot&permissions=8
